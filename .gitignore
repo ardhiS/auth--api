@@ -1,7 +1,7 @@
 .idea
-auth-api/node_modules
+node_modules
 .env
 package-lock.json
 coverage
-auth-api/config/database/test.json
+config/database/test.json
 node_modules
