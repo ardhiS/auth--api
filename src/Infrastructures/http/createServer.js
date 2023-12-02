@@ -25,7 +25,7 @@ const createServer = async (container) => {
   // Percobaan ke 12
   // Percobaan ke 13
 
-  await server.route({
+  server.route({
     method: 'GET',
     path: '/',
     handler: () => ({
