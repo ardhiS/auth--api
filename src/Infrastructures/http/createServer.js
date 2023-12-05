@@ -28,6 +28,7 @@ const createServer = async (container) => {
       value: 'Hello world!',
     }),
   });
+  // oke
 
   server.ext('onPreResponse', (request, h) => {
     // mendapatkan konteks response dari request
@@ -57,9 +58,6 @@ const createServer = async (container) => {
         status: 'error',
         message: 'terjadi kegagalan pada server kami',
       });
-
-      // Add console.log
-      console.log(response);
 
       newResponse.code(500);
       return newResponse;
