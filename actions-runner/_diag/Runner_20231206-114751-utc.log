@@ -1,0 +1,125 @@
+[2023-12-06 11:47:51Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:47:51Z INFO HostContext] Well known config file 'Credentials': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials'
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:47:51Z INFO HostContext] Well known config file 'Runner': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.runner'
+[2023-12-06 11:47:51Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-12-06 11:47:51Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2023-12-06 11:47:51Z INFO Listener] Version: 2.311.0
+[2023-12-06 11:47:51Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-12-06 11:47:51Z INFO Listener] Culture: en-US
+[2023-12-06 11:47:51Z INFO Listener] UI Culture: en-US
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:47:51Z INFO Listener] Validating directory permissions for: 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:47:51Z INFO CommandLineParser] Parse
+[2023-12-06 11:47:51Z INFO CommandLineParser] Parsing 1 args
+[2023-12-06 11:47:51Z INFO CommandLineParser] parsing argument
+[2023-12-06 11:47:51Z INFO CommandLineParser] HasArgs: False
+[2023-12-06 11:47:51Z INFO CommandLineParser] Adding Command: run
+[2023-12-06 11:47:51Z INFO Listener] Arguments parsed
+[2023-12-06 11:47:51Z INFO Runner] ExecuteCommand
+[2023-12-06 11:47:51Z INFO ConfigurationStore] currentAssemblyLocation: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin\Runner.Listener.dll
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:47:51Z INFO ConfigurationStore] binPath: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:47:51Z INFO ConfigurationStore] RootFolder: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:47:51Z INFO HostContext] Well known config file 'Runner': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.runner'
+[2023-12-06 11:47:51Z INFO ConfigurationStore] ConfigFilePath: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.runner
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:47:51Z INFO HostContext] Well known config file 'Credentials': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials'
+[2023-12-06 11:47:51Z INFO ConfigurationStore] CredFilePath: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:47:51Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials_migrated'
+[2023-12-06 11:47:51Z INFO ConfigurationStore] MigratedCredFilePath: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials_migrated
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:47:51Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:47:51Z INFO HostContext] Well known config file 'Service': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.service'
+[2023-12-06 11:47:51Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.service
+[2023-12-06 11:47:51Z INFO CommandSettings] Flag 'help': 'False'
+[2023-12-06 11:47:51Z INFO CommandSettings] Flag 'version': 'False'
+[2023-12-06 11:47:51Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-12-06 11:47:51Z INFO CommandSettings] Flag 'check': 'False'
+[2023-12-06 11:47:51Z INFO CommandSettings] Command 'configure': 'False'
+[2023-12-06 11:47:51Z INFO CommandSettings] Command 'remove': 'False'
+[2023-12-06 11:47:51Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-12-06 11:47:51Z INFO ConfigurationManager] LoadSettings
+[2023-12-06 11:47:51Z INFO ConfigurationStore] IsConfigured()
+[2023-12-06 11:47:51Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-06 11:47:51Z INFO ConfigurationManager] Is configured: True
+[2023-12-06 11:47:51Z INFO ConfigurationStore] Read setting file: 294 chars
+[2023-12-06 11:47:51Z INFO ConfigurationManager] Settings Loaded
+[2023-12-06 11:47:51Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-12-06 11:47:51Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-12-06 11:47:51Z INFO CommandSettings] Command 'run': 'True'
+[2023-12-06 11:47:51Z INFO ConfigurationStore] IsConfigured()
+[2023-12-06 11:47:51Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-06 11:47:51Z INFO ConfigurationManager] Is configured: True
+[2023-12-06 11:47:51Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-12-06 11:47:51Z INFO Runner] Set runner startup type - Manual
+[2023-12-06 11:47:51Z INFO CommandSettings] Flag 'once': 'False'
+[2023-12-06 11:47:51Z INFO CommandSettings] Flag 'once': 'False'
+[2023-12-06 11:47:52Z INFO Runner] RunAsync
+[2023-12-06 11:47:52Z INFO ConfigurationManager] LoadSettings
+[2023-12-06 11:47:52Z INFO ConfigurationStore] IsConfigured()
+[2023-12-06 11:47:52Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-06 11:47:52Z INFO ConfigurationManager] Is configured: True
+[2023-12-06 11:47:52Z INFO ConfigurationManager] Settings Loaded
+[2023-12-06 11:47:52Z INFO MessageListener] {
+  "AgentId": 23,
+  "AgentName": "OLE",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus7.actions.githubusercontent.com/JSG7WE6XIUxd9mEO02nthBEADgLI4j9Drj6DGcSsF8mCM64DK7/",
+  "GitHubUrl": "https://github.com/ardhiS/auth--api",
+  "WorkFolder": "_work"
+}
+[2023-12-06 11:47:52Z INFO MessageListener] Loading Credentials
+[2023-12-06 11:47:52Z INFO ConfigurationStore] HasCredentials()
+[2023-12-06 11:47:52Z INFO ConfigurationStore] stored True
+[2023-12-06 11:47:52Z INFO CredentialManager] GetCredentialProvider
+[2023-12-06 11:47:52Z INFO CredentialManager] Creating type OAuth
+[2023-12-06 11:47:52Z INFO CredentialManager] Creating credential type: OAuth
+[2023-12-06 11:47:52Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:47:52Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:47:52Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials_rsaparams'
+[2023-12-06 11:47:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials_rsaparams
+[2023-12-06 11:47:52Z INFO MessageListener] Attempt to create session.
+[2023-12-06 11:47:52Z INFO MessageListener] Connecting to the Runner Server...
+[2023-12-06 11:47:52Z INFO RunnerServer] EstablishVssConnection
+[2023-12-06 11:47:52Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-12-06 11:47:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-06 11:47:52Z INFO RunnerServer] EstablishVssConnection
+[2023-12-06 11:47:52Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-06 11:47:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-06 11:47:52Z INFO RunnerServer] EstablishVssConnection
+[2023-12-06 11:47:52Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-06 11:47:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-06 11:47:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-06 11:47:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-06 11:47:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-06 11:47:54Z INFO MessageListener] VssConnection created
+[2023-12-06 11:47:54Z INFO Terminal] WRITE LINE: 
+[2023-12-06 11:47:54Z INFO Terminal] WRITE LINE: 
+[2023-12-06 11:47:55Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials_rsaparams
+[2023-12-06 11:47:55Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials_rsaparams
+[2023-12-06 11:47:56Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-12-06 11:47:56Z INFO MessageListener] Session created.
+[2023-12-06 11:47:56Z INFO Terminal] WRITE LINE: Current runner version: '2.311.0'
+[2023-12-06 11:47:56Z INFO Terminal] WRITE LINE: 2023-12-06 11:47:56Z: Listening for Jobs
+[2023-12-06 11:47:56Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-12-06 11:48:05Z INFO Terminal] WRITE LINE: Exiting...
+[2023-12-06 11:48:05Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-12-06 11:48:05Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-12-06 11:48:05Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-12-06 11:48:05Z WARN GitHubActionsService] GET request to https://pipelinesghubeus7.actions.githubusercontent.com/JSG7WE6XIUxd9mEO02nthBEADgLI4j9Drj6DGcSsF8mCM64DK7/_apis/distributedtask/pools/1/messages?sessionId=080bfe97-3771-451d-93f6-cceeaa2508bc&status=Online&runnerVersion=2.311.0&os=Windows&architecture=X64 has been cancelled.
+[2023-12-06 11:48:05Z INFO MessageListener] Get next message has been cancelled.
+[2023-12-06 11:48:05Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-12-06 11:48:08Z INFO Listener] Runner execution been cancelled.

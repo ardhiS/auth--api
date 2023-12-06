@@ -1,0 +1,161 @@
+[2023-12-06 11:44:21Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:44:21Z INFO HostContext] Well known config file 'Credentials': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials'
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:44:21Z INFO HostContext] Well known config file 'Runner': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.runner'
+[2023-12-06 11:44:21Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-12-06 11:44:21Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2023-12-06 11:44:21Z INFO Listener] Version: 2.311.0
+[2023-12-06 11:44:21Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-12-06 11:44:21Z INFO Listener] Culture: en-US
+[2023-12-06 11:44:21Z INFO Listener] UI Culture: en-US
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:44:21Z INFO Listener] Validating directory permissions for: 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:44:21Z INFO CommandLineParser] Parse
+[2023-12-06 11:44:21Z INFO CommandLineParser] Parsing 5 args
+[2023-12-06 11:44:21Z INFO CommandLineParser] parsing argument
+[2023-12-06 11:44:21Z INFO CommandLineParser] HasArgs: False
+[2023-12-06 11:44:21Z INFO CommandLineParser] Adding Command: configure
+[2023-12-06 11:44:21Z INFO CommandLineParser] parsing argument
+[2023-12-06 11:44:21Z INFO CommandLineParser] HasArgs: True
+[2023-12-06 11:44:21Z INFO CommandLineParser] arg: url
+[2023-12-06 11:44:21Z INFO CommandLineParser] parsing argument
+[2023-12-06 11:44:21Z INFO CommandLineParser] HasArgs: True
+[2023-12-06 11:44:21Z INFO CommandLineParser] Adding option 'url': 'https://github.com/ardhiS/auth--api'
+[2023-12-06 11:44:21Z INFO CommandLineParser] parsing argument
+[2023-12-06 11:44:21Z INFO CommandLineParser] HasArgs: True
+[2023-12-06 11:44:21Z INFO CommandLineParser] arg: token
+[2023-12-06 11:44:21Z INFO CommandLineParser] parsing argument
+[2023-12-06 11:44:21Z INFO CommandLineParser] HasArgs: True
+[2023-12-06 11:44:21Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-12-06 11:44:21Z INFO Listener] Arguments parsed
+[2023-12-06 11:44:21Z INFO Runner] ExecuteCommand
+[2023-12-06 11:44:21Z INFO ConfigurationStore] currentAssemblyLocation: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin\Runner.Listener.dll
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:44:21Z INFO ConfigurationStore] binPath: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:44:21Z INFO ConfigurationStore] RootFolder: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:44:21Z INFO HostContext] Well known config file 'Runner': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.runner'
+[2023-12-06 11:44:21Z INFO ConfigurationStore] ConfigFilePath: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.runner
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:44:21Z INFO HostContext] Well known config file 'Credentials': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials'
+[2023-12-06 11:44:21Z INFO ConfigurationStore] CredFilePath: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:44:21Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials_migrated'
+[2023-12-06 11:44:21Z INFO ConfigurationStore] MigratedCredFilePath: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.credentials_migrated
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Bin': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\bin'
+[2023-12-06 11:44:21Z INFO HostContext] Well known directory 'Root': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner'
+[2023-12-06 11:44:21Z INFO HostContext] Well known config file 'Service': 'C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.service'
+[2023-12-06 11:44:21Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Percobaan Dicoding nanti hapus ajah\a276-backend-expert-labs-302-auth-api-full-features\auth-api\actions-runner\.service
+[2023-12-06 11:44:21Z INFO CommandSettings] Flag 'help': 'False'
+[2023-12-06 11:44:21Z INFO CommandSettings] Flag 'version': 'False'
+[2023-12-06 11:44:21Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-12-06 11:44:21Z INFO CommandSettings] Flag 'check': 'False'
+[2023-12-06 11:44:21Z INFO CommandSettings] Command 'configure': 'True'
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE: 
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-12-06 11:44:21Z INFO Terminal] WRITE: |                       
+[2023-12-06 11:44:21Z INFO Terminal] WRITE: Self-hosted runner registration
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE:                         |
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-12-06 11:44:21Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-12-06 11:44:21Z INFO ConfigurationManager] ConfigureAsync
+[2023-12-06 11:44:21Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2023-12-06 11:44:21Z INFO ConfigurationStore] IsConfigured()
+[2023-12-06 11:44:21Z INFO ConfigurationStore] IsConfigured: False
+[2023-12-06 11:44:21Z INFO ConfigurationManager] Is configured: False
+[2023-12-06 11:44:21Z INFO CommandSettings] Arg 'url': 'https://github.com/ardhiS/auth--api'
+[2023-12-06 11:44:21Z INFO CommandSettings] Remove url from Arg dictionary.
+[2023-12-06 11:44:21Z INFO CommandSettings] Arg 'token': '***'
+[2023-12-06 11:44:21Z INFO CommandSettings] Remove token from Arg dictionary.
+[2023-12-06 11:44:21Z ERR  ConfigurationManager] Failed to get tenant credentials -- Attempt: 1
+[2023-12-06 11:44:21Z ERR  ConfigurationManager] System.Net.Http.HttpRequestException: No such host is known. (api.github.com:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.GetTenantCredential(String githubUrl, String githubToken, String runnerEvent)
+[2023-12-06 11:44:21Z ERR  ConfigurationManager] #####################################################
+[2023-12-06 11:44:21Z ERR  ConfigurationManager] System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+[2023-12-06 11:44:21Z INFO ConfigurationManager] Retrying in 2 seconds
+[2023-12-06 11:44:24Z ERR  ConfigurationManager] Failed to get tenant credentials -- Attempt: 2
+[2023-12-06 11:44:24Z ERR  ConfigurationManager] System.Net.Http.HttpRequestException: No such host is known. (api.github.com:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.GetTenantCredential(String githubUrl, String githubToken, String runnerEvent)
+[2023-12-06 11:44:24Z ERR  ConfigurationManager] #####################################################
+[2023-12-06 11:44:24Z ERR  ConfigurationManager] System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+[2023-12-06 11:44:24Z INFO ConfigurationManager] Retrying in 1 seconds
+[2023-12-06 11:44:25Z ERR  Runner] System.Net.Http.HttpRequestException: No such host is known. (api.github.com:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.GetTenantCredential(String githubUrl, String githubToken, String runnerEvent)
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2023-12-06 11:44:25Z ERR  Runner] #####################################################
+[2023-12-06 11:44:25Z ERR  Runner] System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+[2023-12-06 11:44:25Z ERR  Terminal] WRITE ERROR: No such host is known. (api.github.com:443)
+[2023-12-06 11:44:25Z INFO Listener] Runner execution has finished with return code 1
