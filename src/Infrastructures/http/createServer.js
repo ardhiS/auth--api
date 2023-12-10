@@ -25,10 +25,10 @@ const createServer = async (container) => {
     method: 'GET',
     path: '/',
     handler: () => ({
-      value: 'Hello world!',
+      value: 'ole',
     }),
   });
-
+  // oke
   server.ext('onPreResponse', (request, h) => {
     // mendapatkan konteks response dari request
     const { response } = request;
@@ -57,7 +57,7 @@ const createServer = async (container) => {
         status: 'error',
         message: 'terjadi kegagalan pada server kami',
       });
-      console.log(response);
+
       newResponse.code(500);
       return newResponse;
     }
