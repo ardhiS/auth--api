@@ -5,13 +5,3 @@
   "port": "5432",
   "database": "authapi_test"
 }
-
-// Data untukk di ec2 aws
-
-// {
-//     "user": "postgres",
-//     "password": "supersecret",
-//     "host": "auth-api.cmokwrye3u5h.ap-southeast-1.rds.amazonaws.com",
-//     "port": "5432",
-//     "database": "authapi_test"
-// }
